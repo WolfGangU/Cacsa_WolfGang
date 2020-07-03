@@ -1,0 +1,16 @@
+[10-Jun-2019 15:14:16 America/Mexico_City] PHP Warning:  include(validar.php): failed to open stream: No such file or directory in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/Carlos de JesúsKUBOTA PÉREZ/kubota.php on line 1
+[10-Jun-2019 15:14:16 America/Mexico_City] PHP Warning:  include(validar.php): failed to open stream: No such file or directory in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/Carlos de JesúsKUBOTA PÉREZ/kubota.php on line 1
+[10-Jun-2019 15:14:16 America/Mexico_City] PHP Warning:  include(): Failed opening 'validar.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/Carlos de JesúsKUBOTA PÉREZ/kubota.php on line 1
+[10-Jun-2019 15:14:16 America/Mexico_City] PHP Warning:  include(menuyheader.php): failed to open stream: No such file or directory in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/Carlos de JesúsKUBOTA PÉREZ/kubota.php on line 2
+[10-Jun-2019 15:14:16 America/Mexico_City] PHP Warning:  include(menuyheader.php): failed to open stream: No such file or directory in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/Carlos de JesúsKUBOTA PÉREZ/kubota.php on line 2
+[10-Jun-2019 15:14:16 America/Mexico_City] PHP Warning:  include(): Failed opening 'menuyheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/Carlos de JesúsKUBOTA PÉREZ/kubota.php on line 2
+[10-Jun-2019 15:14:16 America/Mexico_City] PHP Notice:  Undefined index: id in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/Carlos de JesúsKUBOTA PÉREZ/kubota.php on line 14
+[10-Jun-2019 15:14:16 America/Mexico_City] PHP Warning:  include(conexion.php): failed to open stream: No such file or directory in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/Carlos de JesúsKUBOTA PÉREZ/kubota.php on line 17
+[10-Jun-2019 15:14:16 America/Mexico_City] PHP Warning:  include(conexion.php): failed to open stream: No such file or directory in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/Carlos de JesúsKUBOTA PÉREZ/kubota.php on line 17
+[10-Jun-2019 15:14:16 America/Mexico_City] PHP Warning:  include(): Failed opening 'conexion.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/Carlos de JesúsKUBOTA PÉREZ/kubota.php on line 17
+[10-Jun-2019 15:14:16 America/Mexico_City] PHP Notice:  Undefined variable: conexion in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/Carlos de JesúsKUBOTA PÉREZ/kubota.php on line 19
+[10-Jun-2019 15:14:16 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/Carlos de JesúsKUBOTA PÉREZ/kubota.php:19
+Stack trace:
+#0 /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/Carlos de JesúsKUBOTA PÉREZ/kubota.php(14): ConsultarRuta(NULL)
+#1 {main}
+  thrown in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/Carlos de JesúsKUBOTA PÉREZ/kubota.php on line 19

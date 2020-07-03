@@ -1,0 +1,115 @@
+[30-May-2019 01:40:43 America/Mexico_City] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/conexion.php on line 8
+[30-May-2019 01:51:39 America/Mexico_City] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection refused in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/AgregarDocVe.php on line 85
+[30-May-2019 01:51:39 America/Mexico_City] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/AgregarDocVe.php on line 90
+[30-May-2019 01:55:11 America/Mexico_City] PHP Parse error:  syntax error, unexpected '", "' (T_CONSTANT_ENCAPSED_STRING) in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/AgregarDocVe.php on line 85
+[30-May-2019 01:58:45 America/Mexico_City] PHP Parse error:  syntax error, unexpected '", "' (T_CONSTANT_ENCAPSED_STRING) in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/AgregarDocVe.php on line 85
+[30-May-2019 02:07:25 America/Mexico_City] PHP Parse error:  syntax error, unexpected '", "' (T_CONSTANT_ENCAPSED_STRING) in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/AgregarDocVe.php on line 85
+[30-May-2019 02:11:32 America/Mexico_City] PHP Parse error:  syntax error, unexpected '", "' (T_CONSTANT_ENCAPSED_STRING) in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/AgregarDocVe.php on line 85
+[30-May-2019 02:22:23 America/Mexico_City] PHP Warning:  unlink(Taxi/lol): No such file or directory in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/Elimnar_pasev.php on line 11
+[30-May-2019 02:23:10 America/Mexico_City] PHP Parse error:  syntax error, unexpected '", "' (T_CONSTANT_ENCAPSED_STRING) in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/AgregarDocVe.php on line 85
+[30-May-2019 02:24:32 America/Mexico_City] PHP Parse error:  syntax error, unexpected '", "' (T_CONSTANT_ENCAPSED_STRING) in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/AgregarDocVe.php on line 85
+[30-May-2019 02:25:41 America/Mexico_City] PHP Parse error:  syntax error, unexpected '", "' (T_CONSTANT_ENCAPSED_STRING) in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/AgregarDocVe.php on line 85
+[30-May-2019 02:46:47 America/Mexico_City] PHP Warning:  rename(Carlos de JesúsKUBOTA PÉREZ/scripts.php,Carlos de JesúsKUBOTA PÉREZ/Lol13.application/octet-stream): No such file or directory in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/AgregarDocop.php on line 62
+[30-May-2019 02:46:47 America/Mexico_City] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/AgregarDocop.php on line 84
+[30-May-2019 02:46:47 America/Mexico_City] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/AgregarDocop.php on line 89
+[30-May-2019 02:50:39 America/Mexico_City] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/AgregarDocop.php on line 84
+[30-May-2019 02:50:39 America/Mexico_City] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/AgregarDocop.php on line 89
+[30-May-2019 02:57:10 America/Mexico_City] PHP Parse error:  syntax error, unexpected '", "' (T_CONSTANT_ENCAPSED_STRING) in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/AgregarDocVe.php on line 85
+[03-Jun-2019 00:48:50 America/Mexico_City] PHP Warning:  unlink(Otros/GRUPO MAS.pdf): No such file or directory in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/Elimnar_documentos.php on line 11
+[03-Jun-2019 00:48:55 America/Mexico_City] PHP Warning:  unlink(Otros/Cableado Estructurado.pdf): No such file or directory in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/Elimnar_documentos.php on line 11
+[03-Jun-2019 00:49:00 America/Mexico_City] PHP Warning:  unlink(Otros/Cedula_KUPC990601HVZBRR02.pdf): No such file or directory in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/Elimnar_documentos.php on line 11
+[03-Jun-2019 00:49:05 America/Mexico_City] PHP Warning:  unlink(RetiroORecoleccion/checklogin.php): No such file or directory in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/Elimnar_documentos.php on line 11
+[03-Jun-2019 00:49:10 America/Mexico_City] PHP Warning:  unlink(Otros/constancia-curp.pdf): No such file or directory in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/Elimnar_documentos.php on line 11
+[03-Jun-2019 00:49:29 America/Mexico_City] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection refused in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/AgregarDoc.php on line 72
+[03-Jun-2019 00:49:29 America/Mexico_City] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/AgregarDoc.php on line 77
+[03-Jun-2019 01:02:38 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_set_charset() in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/AgregarDoc.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/AgregarDoc.php on line 73
+[03-Jun-2019 01:09:41 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_set_charset() in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/AgregarDoc.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/AgregarDoc.php on line 73
+[03-Jun-2019 09:41:15 America/Mexico_City] PHP Warning:  : No such file or directory in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/AgregarDocop.php on line 62
+[03-Jun-2019 17:32:58 America/Mexico_City] PHP Warning:  rename(Carlos de JesúsKUBOTA PÉREZ/Libro1.xlsx,Carlos de JesúsKUBOTA PÉREZ/Lol13.application/vnd.openxmlformats-officedocument.spreadsheetml.sheet): No such file or directory in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/AgregarDocop.php on line 62
+[03-Jun-2019 17:36:03 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function set_charset() on array in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/AgregarDocop.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/AgregarDocop.php on line 11
+[03-Jun-2019 17:36:12 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function set_charset() on array in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/AgregarDocop.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/AgregarDocop.php on line 11
+[03-Jun-2019 17:36:50 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::set_charset() in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/AgregarDocop.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/AgregarDocop.php on line 9
+[03-Jun-2019 17:40:32 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::set_charset() in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/AgregarDocop.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/AgregarDocop.php on line 9
+[03-Jun-2019 17:48:45 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/Elimnar_pasep.php on line 10
+[03-Jun-2019 17:48:45 America/Mexico_City] PHP Warning:  unlink(): No such file or directory in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/Elimnar_pasep.php on line 11
+[03-Jun-2019 17:48:49 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/Elimnar_pasep.php on line 10
+[03-Jun-2019 17:48:49 America/Mexico_City] PHP Warning:  unlink(): No such file or directory in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/Elimnar_pasep.php on line 11
+[03-Jun-2019 17:48:53 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/Elimnar_pasep.php on line 10
+[03-Jun-2019 17:48:53 America/Mexico_City] PHP Warning:  unlink(): No such file or directory in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/Elimnar_pasep.php on line 11
+[03-Jun-2019 17:48:57 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/Elimnar_pasep.php on line 10
+[03-Jun-2019 17:48:57 America/Mexico_City] PHP Warning:  unlink(): No such file or directory in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/Elimnar_pasep.php on line 11
+[03-Jun-2019 17:49:03 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/Elimnar_pasep.php on line 10
+[03-Jun-2019 17:49:03 America/Mexico_City] PHP Warning:  unlink(): No such file or directory in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/Elimnar_pasep.php on line 11
+[03-Jun-2019 17:49:06 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/Elimnar_pasep.php on line 10
+[03-Jun-2019 17:49:06 America/Mexico_City] PHP Warning:  unlink(): No such file or directory in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/Elimnar_pasep.php on line 11
+[03-Jun-2019 17:49:10 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/Elimnar_pasep.php on line 10
+[03-Jun-2019 17:49:10 America/Mexico_City] PHP Warning:  unlink(): No such file or directory in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/Elimnar_pasep.php on line 11
+[03-Jun-2019 17:49:15 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/Elimnar_pasep.php on line 10
+[03-Jun-2019 17:49:15 America/Mexico_City] PHP Warning:  unlink(): No such file or directory in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/Elimnar_pasep.php on line 11
+[03-Jun-2019 17:49:19 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/Elimnar_pasep.php on line 10
+[03-Jun-2019 17:49:19 America/Mexico_City] PHP Warning:  unlink(): No such file or directory in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/Elimnar_pasep.php on line 11
+[03-Jun-2019 17:49:23 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/Elimnar_pasep.php on line 10
+[03-Jun-2019 17:49:23 America/Mexico_City] PHP Warning:  unlink(): No such file or directory in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/Elimnar_pasep.php on line 11
+[03-Jun-2019 17:49:31 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/Elimnar_pasep.php on line 10
+[03-Jun-2019 17:49:31 America/Mexico_City] PHP Warning:  unlink(): No such file or directory in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/Elimnar_pasep.php on line 11
+[03-Jun-2019 17:49:37 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/Elimnar_pasep.php on line 10
+[03-Jun-2019 17:49:37 America/Mexico_City] PHP Warning:  unlink(): No such file or directory in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/Elimnar_pasep.php on line 11
+[03-Jun-2019 17:49:41 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/Elimnar_pasep.php on line 10
+[03-Jun-2019 17:49:41 America/Mexico_City] PHP Warning:  unlink(): No such file or directory in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/Elimnar_pasep.php on line 11
+[03-Jun-2019 17:58:30 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/Elimnar_pasep.php on line 10
+[03-Jun-2019 17:58:30 America/Mexico_City] PHP Warning:  unlink(): No such file or directory in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/Elimnar_pasep.php on line 11
+[03-Jun-2019 17:58:34 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/Elimnar_pasep.php on line 10
+[03-Jun-2019 17:58:34 America/Mexico_City] PHP Warning:  unlink(): No such file or directory in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/Elimnar_pasep.php on line 11
+[03-Jun-2019 17:58:39 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/Elimnar_pasep.php on line 10
+[03-Jun-2019 17:58:39 America/Mexico_City] PHP Warning:  unlink(): No such file or directory in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/Elimnar_pasep.php on line 11
+[03-Jun-2019 17:58:45 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/Elimnar_pasep.php on line 10
+[03-Jun-2019 17:58:45 America/Mexico_City] PHP Warning:  unlink(): No such file or directory in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/Elimnar_pasep.php on line 11
+[10-Jun-2019 15:14:48 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/Elimnar_pasep.php on line 10
+[10-Jun-2019 15:14:48 America/Mexico_City] PHP Warning:  unlink(): No such file or directory in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/Elimnar_pasep.php on line 11
+[11-Jun-2019 17:45:03 America/Mexico_City] PHP Notice:  Undefined variable: ruta in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/AgregarDocop.php on line 88
+[11-Jun-2019 17:52:09 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/Elimnar_pasep.php on line 10
+[11-Jun-2019 17:52:09 America/Mexico_City] PHP Warning:  unlink(): No such file or directory in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/Elimnar_pasep.php on line 11
+[11-Jun-2019 18:07:56 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/Elimnar_pasep.php on line 10
+[11-Jun-2019 18:07:56 America/Mexico_City] PHP Warning:  unlink(): No such file or directory in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/Elimnar_pasep.php on line 11
+[11-Jun-2019 18:09:09 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/Elimnar_pasep.php on line 10
+[11-Jun-2019 18:09:09 America/Mexico_City] PHP Warning:  unlink(): No such file or directory in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/Elimnar_pasep.php on line 11
+[11-Jun-2019 18:17:16 America/Mexico_City] PHP Warning:  rename(RAM 2012/Escaneado_20190522-1119 (3).jpg,RAM 2012/kubota.image/jpeg): No such file or directory in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/AgregarDocVe.php on line 62
+[11-Jun-2019 18:18:16 America/Mexico_City] PHP Warning:  unlink(RAM 2012/kubota.image/jpeg): No such file or directory in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/Elimnar_pasev.php on line 11
+[11-Jun-2019 18:18:34 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/Elimnar_pasep.php on line 10
+[11-Jun-2019 18:18:34 America/Mexico_City] PHP Warning:  unlink(): No such file or directory in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/Elimnar_pasep.php on line 11
+[11-Jun-2019 18:18:39 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/Elimnar_pasep.php on line 10
+[11-Jun-2019 18:18:39 America/Mexico_City] PHP Warning:  unlink(): No such file or directory in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/Elimnar_pasep.php on line 11
+[12-Jun-2019 16:58:49 America/Mexico_City] PHP Warning:  rename(SantosGonzález de la Cruz/438122019.pdf,SantosGonzález de la Cruz/AGUAS RESIDUALES .application/pdf): No such file or directory in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/AgregarDocop.php on line 85
+[12-Jun-2019 17:05:50 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/Elimnar_pasep.php on line 10
+[12-Jun-2019 17:05:50 America/Mexico_City] PHP Warning:  unlink(): No such file or directory in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/Elimnar_pasep.php on line 11
+[12-Jun-2019 17:09:44 America/Mexico_City] PHP Warning:  rename(ADAN ALFREDOPALACIOS RODRIGUEZ/438042019.pdf,ADAN ALFREDOPALACIOS RODRIGUEZ/RECOLECCIÓN DE BASURA | BREDERO.application/pdf): No such file or directory in /home/parquefa/public_html/cacsawc/Ordy/cacsa/admin/PHP/documentos/AgregarDocop.php on line 85
+[18-Jun-2019 14:16:59 America/Mexico_City] PHP Warning:  unlink(Otros/Bit_SERVICIO DE SANITARIOS PORTÃ_TILES (WC MÃ_VIL)GRUPO CONSTRUCTOR KAC SA DE CV CASTILLO (1).pdf): No such file or directory in /home/parquefa/cacsawc.com/Ordy/cacsa/admin/PHP/documentos/Elimnar_documentos.php on line 11
+[18-Jun-2019 14:17:04 America/Mexico_City] PHP Warning:  unlink(Otros/Bit_SERVICIO DE SANITARIOS PORTÃ_TILES (WC MÃ_VIL)GRUPO CONSTRUCTOR KAC SA DE CV CASTILLO (1).pdf): No such file or directory in /home/parquefa/cacsawc.com/Ordy/cacsa/admin/PHP/documentos/Elimnar_documentos.php on line 11
+[25-Jun-2019 17:07:48 America/Mexico_City] PHP Warning:  unlink(SANTOS GONZALEZ DE LA CRUZ/Cableado Estructuradofan.docx): No such file or directory in /home/parquefa/cacsawc.com/Ordy/cacsa/admin/PHP/documentos/Elimnar_documentos.php on line 11
+[25-Jun-2019 19:23:59 America/Mexico_City] PHP Notice:  Undefined variable: ruta in /home/parquefa/cacsawc.com/Ordy/cacsa/admin/PHP/documentos/AgregarDoc.php on line 75
+[25-Jun-2019 19:24:17 America/Mexico_City] PHP Warning:  unlink(): No such file or directory in /home/parquefa/cacsawc.com/Ordy/cacsa/admin/PHP/documentos/Elimnar_documentos.php on line 11
+[08-Aug-2019 10:06:35 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/parquefa/cacsawc.com/Ordy/cacsa/admin/PHP/documentos/Elimnar_pasep.php on line 10
+[08-Aug-2019 10:06:35 America/Mexico_City] PHP Warning:  unlink(): No such file or directory in /home/parquefa/cacsawc.com/Ordy/cacsa/admin/PHP/documentos/Elimnar_pasep.php on line 11
+[08-Aug-2019 10:06:41 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/parquefa/cacsawc.com/Ordy/cacsa/admin/PHP/documentos/Elimnar_pasep.php on line 10
+[08-Aug-2019 10:06:41 America/Mexico_City] PHP Warning:  unlink(): No such file or directory in /home/parquefa/cacsawc.com/Ordy/cacsa/admin/PHP/documentos/Elimnar_pasep.php on line 11
+[08-Aug-2019 10:06:53 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/parquefa/cacsawc.com/Ordy/cacsa/admin/PHP/documentos/Elimnar_pasep.php on line 10
+[08-Aug-2019 10:06:53 America/Mexico_City] PHP Warning:  unlink(): No such file or directory in /home/parquefa/cacsawc.com/Ordy/cacsa/admin/PHP/documentos/Elimnar_pasep.php on line 11
+[08-Aug-2019 10:08:38 America/Mexico_City] PHP Warning:  rename(SANTOSGONZALEZ DE LA CRUZ/630952019 RECOLECCION AGUAS RESIDUALES.pdf,SANTOSGONZALEZ DE LA CRUZ/AGUAS RESIDUALES | BREDERO.application/pdf): No such file or directory in /home/parquefa/cacsawc.com/Ordy/cacsa/admin/PHP/documentos/AgregarDocop.php on line 85
