@@ -1,0 +1,1 @@
+SELECT u.id,u.nombre_usuario,u.PASSWORD,u.id_rol FROM usuarios u WHERE u.id = 
