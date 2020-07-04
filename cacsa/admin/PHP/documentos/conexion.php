@@ -1,8 +1,8 @@
 <?php
 
-$server= '67.217.34.70';
-$user= 'parquefa_cacsadm';
-$password = 'lalo37yayoZXC';
+$server= 'localhost';
+$user= 'root';
+$password ='';
 $bd = 'parquefa_admincac_cacsa1';
 
 $conexion = mysqli_connect($server, $user, $password, $bd);

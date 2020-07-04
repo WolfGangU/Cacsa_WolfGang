@@ -83,7 +83,7 @@
                   {"data":"email_plan"},
                   {"data":"num_plan"},
                   {"data":"direc_plan"},
-                  {render: function (data, type, row){return `<a class="btn btn-success" href="Docs_plant.php?id=${row.id_plant}" role="button">Documentos</a> <a class="btn btn-primary" href="Modif_plant.php?id=${row.id_plant}" role="button">Modificar</a> <a href="PHP/Eliminar_plant.php?id=${row.id_plant}"  class="btn btn-danger">Eliminar</a>` }}
+                  {render: function (data, type, row){return `<a class="btn btn-success"  role="button">Modificar</a> <a href="PHP/Eliminar_plant.php?id=${row.id_plant}"  class="btn btn-danger">Eliminar</a>` }}
                   
 
           ],

@@ -19,7 +19,7 @@
   <a href="agregarproducto.php" class="btn btn-primary" style="width: 150px; height: 150px" ><h2>Nuevo <br>Producto</h2></a>
   <a href="agregarcliente.php" class="btn btn-primary" style="width: 150px; height: 150px" ><h2>Nuevo<br>Cliente</h2></a>
   <a href="blocknotas.php" class="btn btn-primary" style="width: 150px; height: 150px" ><h2>Nuevo <br> Contacto</h2></a>
-    <a href="blocknotas.php" class="btn btn-primary" style="width: 150px; height: 150px" ><h2>Resumen</h2></a>
+   
   </div>
   </h1>
   </div>

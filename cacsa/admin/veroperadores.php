@@ -81,7 +81,7 @@
                   {"data":"email_op"},
                   {"data":"telefono"},
                   {"data":"direccion"},
-                  {render: function (data, type, row){return `<a class="btn btn-success" href="Docs_operador.php?id=${row.id_operador}" role="button">Documentos</a> <a class="btn btn-primary" href="Modif_operador.php?id=${row.id_operador}" role="button">Modificar</a> <a href="PHP/Elimnar_operador.php?id=${row.id_operador}"  class="btn btn-danger">Eliminar</a>` }}
+                  {render: function (data, type, row){return `<a class="btn btn-success"  <a class="btn btn-primary" href="Modif_operador.php?id=${row.id_operador}" role="button">Modificar</a> <a href="PHP/Elimnar_operador.php?id=${row.id_operador}"  class="btn btn-danger">Eliminar</a>` }}
                   
 
           ],

@@ -70,8 +70,7 @@ while($mostrar=mysqli_fetch_array($result)){
 
 
 $pdf->SetFont('Arial','B','10');
- $pdf->Cell(5);
-  $pdf->Cell(8,8,'',1,0,'C',1);
+
 $pdf->Cell(30,8,$mostrar['codigo'],1,0,'C',1);
 $pdf->Cell(142,8,utf8_decode($mostrar['descrip']),1,1,'C',1);
 

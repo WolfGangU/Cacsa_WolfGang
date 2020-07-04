@@ -191,7 +191,7 @@ desired effect
             <li><a href="listaderutas.php">Rutas</a></li>
             <li><a href="listadesalida.php">Orden de Entrega</a></li>
             <li><a href="listaderetiro.php">Orden de Recoleccion</a></li>
-            <li><a href="listadereparacion.php">Orden de Reparacion</a></li>
+         
            
             <li><a href="listadelugares.php">Lugares</a></li>
             
@@ -211,7 +211,7 @@ desired effect
             <li><a href="vercontactos.php">Contactos</a></li>
 <li><a href="veroperadores.php">Operadores</a></li>
  <li><a href="listadepases.php">Pases y Accesos</a></li>
-   <li><a href="verdocumentos.php">Documentos</a></li>
+  
             <li><a href="listadeplantillalab.php">Plantilla Laboral</a></li>
             <li><a href="verusuarios.php">Usuarios</a></li>
           </ul>
